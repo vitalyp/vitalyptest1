@@ -18,8 +18,8 @@
 - Нажмите на эту кнопку
 - [![Hack vitalyp/vitalyptest1 on Nitrous.IO](https://d3o0mnbgv6k92a.cloudfront.net/assets/hack-l-v1-4b6757c3247e3c50314390ece34cdb11.png)](https://www.nitrous.io/hack_button?source=embed&runtime=rails&repo=vitalyp%2Fvitalyptest1&file_to_open=README.md)
 - зарегайтесь на сайте Через Github аккаунт
-- (опционально: опять нажмите на кнопку если регистрация сбила контекст)
-- Выберите эту опцию: 'or use one of these boxes: vitalyptest1'
+- Далее -> Ок -> Согласинг
+- Открывайте проект из под веб-ide
 - читайте инструкцию дальше, из под Nitrous.IO!
 
 
@@ -54,3 +54,4 @@ IDE Menu: Preview -> Port 3000 (no SSL)
   5.  `$ git push origin vitalyp_review1`   // _push for pull request_
   6.   Navigate https://github.com/vitalyp/vitalyptest1/branches
   7.   At your brunch, click 'New pull request'
+
